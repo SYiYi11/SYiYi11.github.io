@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Syntax on Hugo ʕ•ᴥ•ʔ Bear Blog</title>
+    <title>Syntax on </title>
     <link>https://SYiYi11.github.io/blog/syntax/</link>
-    <description>Recent content in Syntax on Hugo ʕ•ᴥ•ʔ Bear Blog</description>
+    <description>Recent content in Syntax on </description>
     <generator>Hugo</generator>
-    <language>en-US</language>
-    <copyright>Copyright © 2020, Jane Doe.</copyright>
+    <language>en</language>
     <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://SYiYi11.github.io/blog/syntax/index.xml" rel="self" type="application/rss+xml" />
     <item>

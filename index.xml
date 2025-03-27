@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo ʕ•ᴥ•ʔ Bear on Hugo ʕ•ᴥ•ʔ Bear Blog</title>
+    <title>Hugo ʕ•ᴥ•ʔ Bear on </title>
     <link>https://SYiYi11.github.io/</link>
-    <description>Recent content in Hugo ʕ•ᴥ•ʔ Bear on Hugo ʕ•ᴥ•ʔ Bear Blog</description>
+    <description>Recent content in Hugo ʕ•ᴥ•ʔ Bear on </description>
     <generator>Hugo</generator>
-    <language>en-US</language>
-    <copyright>Copyright © 2020, Jane Doe.</copyright>
-    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Mar 2025 09:26:11 +0800</lastBuildDate>
     <atom:link href="https://SYiYi11.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://SYiYi11.github.io/test/</link>
+      <pubDate>Tue, 25 Mar 2025 09:26:11 +0800</pubDate>
+      <guid>https://SYiYi11.github.io/test/</guid>
+      <description>&lt;h1 id=&#34;git-常用方法&#34;&gt;Git 常用方法&lt;/h1&gt;&#xA;&lt;h3 id=&#34;-仓库推送方法&#34;&gt;📌 仓库推送方法&lt;/h3&gt;&#xA;&lt;h4 id=&#34;1-将本地开发的记录在-vscode-的-git-管理工具中暂存&#34;&gt;1️⃣ 将本地开发的记录在 VSCode 的 Git 管理工具中暂存：&lt;/h4&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; git add .&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;2-将修改的内容暂存后继续存储暂存可以不设置暂存的名称如有多个暂存可以设置&#34;&gt;2️⃣ 将修改的内容暂存后继续存储暂存，可以不设置暂存的名称，如有多个暂存可以设置&lt;/h4&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; git stash&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;3-接下来就开始拉取远端的仓库代码暂存代码就是为了避免本地和远端的代码不一致造成冲突&#34;&gt;3️⃣ 接下来就开始拉取远端的仓库代码，暂存代码就是为了避免本地和远端的代码不一致造成冲突&lt;/h4&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; git pull&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;4-将暂存的代码弹出&#34;&gt;4️⃣ 将暂存的代码弹出&lt;/h4&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; git stash pop&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;5-弹出代码后如果有冲突的地方就根据情况选择传入的修改暂存的和原本的代码仓库的修改完成后保存代码&#34;&gt;5️⃣ 弹出代码后，如果有冲突的地方，就根据情况选择传入的修改（暂存的）和原本的代码（仓库的），修改完成后保存代码&lt;/h4&gt;&#xA;&lt;h4 id=&#34;6-暂存代码并本地提交推送到仓库&#34;&gt;6️⃣ 暂存代码并本地提交，推送到仓库&lt;/h4&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add .&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s1&#34;&gt;&amp;#39;提交内容的描述文字&amp;#39;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Markdown Syntax Guide</title>
       <link>https://SYiYi11.github.io/markdown-syntax-guide/</link>
